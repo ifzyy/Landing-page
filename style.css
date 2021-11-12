@@ -1,0 +1,188 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.img1{height: 300px;
+    width: 700px;
+    
+
+
+}
+
+.image{
+    padding-top: 50px;
+    margin-left: 100px;
+    
+    
+}
+.hero{
+    background-color: #1F2937;
+    color: white;
+    height: 500px;
+    
+    
+
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    margin-left: 80px;
+    padding-top: 30px;
+}
+.link{
+    display: flex;
+    gap: 25px;
+    padding-top: 30px;
+    margin-right: 200px;
+    
+    
+}
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+
+
+}
+a:hover{
+    color: red;
+}
+button:hover{
+    color: black;
+}
+.main{
+    
+    padding-top: 80px;
+    font-size: 48px;
+    font-weight: bolder;
+}
+.text{
+    border: 3px white;
+    height: 200px;
+    margin-left: 80px;
+    display: flex;
+}
+img{
+    height: 100px;
+    width: 200px;
+}
+.box{
+    border: 1px white;
+    height: 300px;
+    width: 700px;
+}
+.nigga{
+    display: flex;
+    flex-direction: column;
+}
+button{
+ background-color: #3882f6;
+ color: white;
+ font-weight:bold ;
+  width: 100px;
+  height: 30px;
+  border-radius: 15px;
+  border-style: hidden;
+}
+.container{
+    justify-content: space-between;
+    display: flex;
+    flex-direction:row ;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+
+}
+.flex{
+    max-width: 250px;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+     color: #1f2937;
+    }
+
+
+.thor{
+    
+max-width: 800px;
+color: #1f2937;
+font-weight: lighter;
+
+
+}
+ .juju{
+     margin-top: 100px;
+     
+     height: 300px;
+     background-color:#E5E7EB ;
+     
+     font-size: 36px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+
+    }
+    .bass{
+        display: flex;
+        justify-content: flex-end;
+        color: black;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .tab{
+        display: flex;
+        flex-direction: column;
+        border:3px #3882f6;
+        border-radius: 10px;
+        margin-top: 50px;
+        margin-left: 400px;
+        width: 900px;
+        height: 200px;
+        background-color: #3882f6;
+        justify-content: center;
+        color: white;
+        
+    }
+    .action{
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 80px;
+        padding-left: 40px;
+        padding-top: 30px;
+
+    }
+    .sign{
+        padding-left: 40px;
+    }
+    .button{
+        border: 2px solid white;
+        border-radius: 15px;
+        width: 100px;
+        height:30px;
+     margin-left: 650px;
+     margin-bottom: 100px;
+     
+    }
+    .footer{
+        background-color: #1F2937;
+        margin-top: 80px;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #F9FAF8;
+    }
+    .tire{
+        display: flex;
+    }
+    .button button{
+        margin-bottom: 20px;
+    }
+    
